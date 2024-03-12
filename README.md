@@ -13,7 +13,8 @@ To install and run the 3 Highs Prediction with Meal Recommendation System on you
 1. Clone the repository to your local machine.
 2. Open the Python file 3 Highs with Meal Recommendation System.py in your preferred IDE or text editor.
 3. Replace the path of the machine learning model (random_forest_model) with your model's path (if necessary).
-4. Run the Python file.
+4. Replace the path of the images and icons (in the images folder) with the actual path (if necessary).
+5. Run the Python file.
 
 # Usage
 Once installed, follow these steps to use the 3 Highs Prediction with Meal Recommendation System:
